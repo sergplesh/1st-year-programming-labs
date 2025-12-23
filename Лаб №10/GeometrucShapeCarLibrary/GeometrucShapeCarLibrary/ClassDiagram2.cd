@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GeometrucShapeCarLibrary.Car" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgEAAAAAACAAAAExAAAJAQAAAgAAAIIIAACACAAAiA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GeometrucShapeCarLibrary.Circle">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAACACAAAAEgAAAAAAAAAAEAIAAAAACEBAAABA=</HashCode>
+      <FileName>Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometrucShapeCarLibrary.EnterNumber">
+    <Position X="16" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnterNumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometrucShapeCarLibrary.LengthComparer" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>LengthComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GeometrucShapeCarLibrary.Parallelepiped">
+    <Position X="18.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAABACAAAQEgAAAAAAAAAAEAIAAAAACABAAABA=</HashCode>
+      <FileName>Parallelepiped.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometrucShapeCarLibrary.Rectangle">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAACAAAAEwEBAAEBAAAAEAIAAAAACEBAAABA=</HashCode>
+      <FileName>Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometrucShapeCarLibrary.IdNumber">
+    <Position X="11.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAEgEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeometrucShapeCarLibrary.Shape">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAAAAAGAAAQEgAAAAAQAAAAEAIAAAAACEBAAAhA=</HashCode>
+      <FileName>Shape.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="GeometrucShapeCarLibrary.IInit">
+    <Position X="13.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>IInit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GeometrucShapeCarLibrary.INameEquatable">
+    <Position X="9.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INameEquatable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
