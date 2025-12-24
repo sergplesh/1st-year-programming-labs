@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LINQ_лаб__14.Query">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAQEAEAAiABEAAAAEAACQAAoAAAAAAEAQAAABAAA=</HashCode>
+      <FileName>Query.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LINQ_лаб__14.Program">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LINQ_лаб__14.Page">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAgIAAAAAAQACAAEAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LINQ_лаб__14.MyHashTable&lt;T&gt;">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAYAABABQBACEAAQCgAAAAAAAAAAAAAAUAAQ=</HashCode>
+      <FileName>MyHashTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LINQ_лаб__14.MyCollection&lt;T&gt;">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAABAQAAAABAAAAAAIAAAEAAAAABBAIAA=</HashCode>
+      <FileName>MyCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LINQ_лаб__14.EntryPage">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIAAAAAAQCAAAEAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>EntryPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
